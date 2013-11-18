@@ -2,16 +2,16 @@ Ruby Recursion
 
 Here are some examples of recursion within ruby.
 
-  -finding a range of numbers
+-finding a range of numbers
 
-  -finding the sum of an array of numbers
+-finding the sum of an array of numbers
 
-  -two examples of the power function
+-two examples of the power function
 
-  -duplicating a nested array
+-duplicating a nested array
 
-  -finding n fibonacci numbers
+-finding n fibonacci numbers
 
-  -binary search
+-binary search
   
-  -merge sort
+-merge sort
